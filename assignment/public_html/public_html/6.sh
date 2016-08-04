@@ -1,0 +1,1 @@
+find . -maxdepth 1 -type f | head -4 |xargs mv -t ./public_html

@@ -1,0 +1,35 @@
+User webonise
+OS linux-gnu
+Distributor ID:	Ubuntu
+Description:	Ubuntu 14.04.1 LTS
+Release:	14.04
+Codename:	trusty
+webonise :0           2016-08-03 10:01 (:0)
+webonise pts/7        2016-08-03 15:40 (:0)
+webonise pts/12       2016-08-03 17:08 (:0)
+webonise adm cdrom sudo dip plugdev lpadmin sambashare
+./6.sh
+./4.sh
+./1.sh
+./assignment.txt
+./public_html/6.sh
+./public_html/x
+./public_html/assignment.txt
+./public_html/readme.txt
+./public_html/public_html/6.sh
+./public_html/public_html/x
+./public_html/public_html/assignment.txt
+./public_html/public_html/readme.txt
+./public_html/.txt
+./public_html/z.sh
+./public_html/assignment.log
+./z.sh
+./renamedxyz.txt
+./assignment.log
+./7.sh
+./renamedx.txt
+./2.sh
+./5.sh
+Wed Aug  3 20:24:24 IST 2016
+Wed Aug  3 20:25:22 IST 2016
+assignment.log renamed as assignment.txt
